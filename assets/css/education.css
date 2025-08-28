@@ -31,7 +31,7 @@
     display: inline-block;
     width: 1rem;
     height: 1rem;
-    background: url('assets/img/tools/book.svg') no-repeat center center;
+    background: url('../img/tools/book.svg') no-repeat center center;
     background-size: contain;
     margin-right: .5rem;
     vertical-align: middle;
@@ -51,7 +51,7 @@
     display: inline-block;
     width: 1rem;
     height: 1rem;
-    background: url('assets/img/icons/calendar.svg') no-repeat center center;
+    background: url('../img/icons/calendar.svg') no-repeat center center;
     background-size: contain;
     margin-right: .5rem;
     vertical-align: middle;
